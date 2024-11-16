@@ -1,3 +1,5 @@
 spaceship_titanic:
   train_dataset: /Users/zer-oRBT/spbu-data-science/data/spaceship_titanic/train.csv
   test_dataset: /Users/zer-oRBT/spbu-data-science/data/spaceship_titanic/test.csv
+mushrooms:
+  dataset: /Users/zer-oRBT/.cache/kagglehub/datasets/maysee/mushrooms-classification-common-genuss-images/versions/1/Mushrooms
