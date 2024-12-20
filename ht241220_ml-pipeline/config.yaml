@@ -1,0 +1,3 @@
+spaceship_titanic:
+  train_dataset: spaceship_titanic/train.csv
+  test_dataset: spaceship_titanic/test.csv
